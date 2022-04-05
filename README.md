@@ -1,19 +1,19 @@
-nvm install 14.17.1 in terminal before starting server.
 
 # Source website:
 https://www.geeksforgeeks.org/how-to-store-single-cache-data-in-reactjs/
 
 # Dependencies:
 
-- JSON Server
+- JSON Server (creating dummy data)
 https://www.npmjs.com/package/json-server
 
-- React Query
+- React Query (for caching)
 https://www.npmjs.com/package/react-query
 
 https://react-query.tanstack.com/
 
 
+* nvm install 14.17.1 in terminal before starting server.
 
 # Getting Started with Create React App
 
