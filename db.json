@@ -1,0 +1,24 @@
+{
+  "footballplayers": [
+    {
+      "id": 1,
+      "name": "Tom Brady",
+      "position": "Quarterback"
+    },
+    {
+      "id": 2,
+      "name": "Julian Edelman",
+      "position": "Wide Reciever"
+    },
+    {
+      "id": 3,
+      "name": "Willie Mcginest",
+      "position": "Outside Linebacker"
+    },
+    {
+      "id": 4,
+      "name": "Rodney Harrison",
+      "position": "Strong Safety"
+    }
+  ]
+}
