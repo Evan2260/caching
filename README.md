@@ -5,12 +5,18 @@ https://www.geeksforgeeks.org/how-to-store-single-cache-data-in-reactjs/
 # Dependencies:
 
 - JSON Server (creating dummy data)
-https://www.npmjs.com/package/json-server
+  https://www.npmjs.com/package/json-server
 
 - React Query (for caching)
-https://www.npmjs.com/package/react-query
+  https://www.npmjs.com/package/react-query
 
-https://react-query.tanstack.com/
+  https://react-query.tanstack.com/
+
+- React Router
+  https://www.npmjs.com/package/react-router-dom
+  React Router has been updated for React 18
+  https://reactrouter.com/docs/en/v6/getting-started/tutorial
+
 
 
 * nvm install 14.17.1 in terminal before starting server.
